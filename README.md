@@ -1,2 +1,2 @@
-# bullet-test
-Calculates how much damage a bullet does to a wall
+# p5.play-boilerplate
+Boiler plate for p5.play
